@@ -3,7 +3,7 @@ from: https://newline.theironyard.com/cohorts/15/courses/9/activities/147
 # Activity: Responsive Navigation - Pair Programming
 ## Implement Responsive Navigation with 2 Breakpoints  
 Download the assets folder and follow the steps below.
-[Source Files]().
+[Source Files](https://github.com/JamieBort/ResponsiveNavigation/tree/master/SourceFiles).
 
 The downloaded zip contains three subfolders, `resources`, `solution`, and `starter_files`.
 
